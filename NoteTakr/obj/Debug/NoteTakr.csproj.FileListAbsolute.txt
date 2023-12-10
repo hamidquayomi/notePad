@@ -1,0 +1,10 @@
+C:\Users\Hamid\source\repos\NoteTakr\NoteTakr\bin\Debug\NoteTakr.exe.config
+C:\Users\Hamid\source\repos\NoteTakr\NoteTakr\bin\Debug\NoteTakr.exe
+C:\Users\Hamid\source\repos\NoteTakr\NoteTakr\bin\Debug\NoteTakr.pdb
+C:\Users\Hamid\source\repos\NoteTakr\NoteTakr\obj\Debug\NoteTakr.csproj.AssemblyReference.cache
+C:\Users\Hamid\source\repos\NoteTakr\NoteTakr\obj\Debug\NoteTakr.NoteTaker.resources
+C:\Users\Hamid\source\repos\NoteTakr\NoteTakr\obj\Debug\NoteTakr.Properties.Resources.resources
+C:\Users\Hamid\source\repos\NoteTakr\NoteTakr\obj\Debug\NoteTakr.csproj.GenerateResource.cache
+C:\Users\Hamid\source\repos\NoteTakr\NoteTakr\obj\Debug\NoteTakr.csproj.CoreCompileInputs.cache
+C:\Users\Hamid\source\repos\NoteTakr\NoteTakr\obj\Debug\NoteTakr.exe
+C:\Users\Hamid\source\repos\NoteTakr\NoteTakr\obj\Debug\NoteTakr.pdb
